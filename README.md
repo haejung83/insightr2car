@@ -1,6 +1,6 @@
 # Insight RC Car
 
-* Make an atonomous RC car (for fun)
+* Make an autonomous RC car (for fun)
 
 * Hardware
   * Mini RC Car above 1/18 scale (has RC Servo, BLDC ESC)
